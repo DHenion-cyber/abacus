@@ -1,0 +1,31 @@
+ReferenceError: window is not defined
+    at ns (/home/ubuntu/chip-400-intake-ideation/app/.build/server/app/page.js:1:116374)
+    at nj (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:46252)
+    at nM (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47572)
+    at nN (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64547)
+    at nB (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:67539)
+    at nD (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:66681)
+    at nN (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64854)
+    at nB (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:67539)
+    at nM (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:58561)
+    at nN (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64547) {
+  digest: '2490293372'
+}
+
+Error occurred prerendering page "/". Read more: https://nextjs.org/docs/messages/prerender-error
+
+ReferenceError: window is not defined
+    at ns (/home/ubuntu/chip-400-intake-ideation/app/.build/server/app/page.js:1:116374)
+    at nj (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:46252)
+    at nM (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:47572)
+    at nN (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64547)
+    at nB (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:67539)
+    at nD (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:66681)
+    at nN (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64854)
+    at nB (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:67539)
+    at nM (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:58561)
+    at nN (/opt/hostedapp/node/root/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:12:64547)
+
+> Export encountered errors on following paths:
+	/page: /
+error Command failed with exit code 1.
